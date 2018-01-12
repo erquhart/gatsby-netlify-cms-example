@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: erquhart-alt/gatsby-netlify-cms
 
 media_folder: static/assets
 
