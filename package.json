@@ -10,6 +10,8 @@
   "dependencies": {
     "gatsby": "^1.9.153",
     "gatsby-link": "^1.6.34",
-    "gatsby-plugin-netlify-cms": "^1.0.0"
+    "gatsby-plugin-netlify-cms": "^1.0.0",
+    "gatsby-source-filesystem": "^1.5.11",
+    "gatsby-transformer-remark": "^1.7.28"
   }
 }
