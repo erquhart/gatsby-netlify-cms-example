@@ -13,3 +13,4 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
