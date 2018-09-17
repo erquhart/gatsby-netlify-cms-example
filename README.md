@@ -4,7 +4,7 @@ CMS](https://netlifycms.org).
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-netlify-cms-example
+gatsby new gatsby-site https://github.com/erquhart/gatsby-netlify-cms-example
 ```
 
 ## Running in development
